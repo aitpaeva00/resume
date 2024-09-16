@@ -1,9 +1,21 @@
 ![](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif) 
 
-Hi. I'm Elbar. I'm experienced Android Software Engineer with more than 6 years of experience, skilled in building native mobile applications with Java, Kotlin. Quick learner, great team player, and result-driven. I always try to follow best practices and use latest technologies to build high-quality solutions. Interested in Data Science/ML and Finance. 
+## Aizhan Aitpaeva
+
+### Bishkek City, Kyrgyzstan
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Elbar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+Emaill: aizhan.aitpaeva@alatoo.edu.kg
 
 
-For more information about me, check out    [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rocketvista/)](https://www.linkedin.com/in/rocketvista/)
+
+![!](https://mdg.imgix.net/assets/images/tux.png?auto=format&fit=clip&q=40&w=100)
+
+
+#### Objective
+As a dedicated and ambitious student at Ala Too University, I am seeking opportunities to apply my academic knowledge and skills in [your field of interest]. My goal is to contribute to [specific type of work or industry] while continuing to grow professionally and personally.
+
+
+
+
+
