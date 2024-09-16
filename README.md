@@ -1,4 +1,4 @@
-![](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif) 
+![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTJybHNxMGM1cXNnMGcyZDd5Z3Ixb3BrcHF4dmNlYnBscDV1M3JrMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wr82LOt9GX2RXc5Zf2/giphy.gif)
 
 ## Aizhan Aitpaeva
 
@@ -36,6 +36,8 @@ Grigoryevka <br>
  
  📚  Reading
 
+
+![](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif) 
 
  ### Professional experience:
 
